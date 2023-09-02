@@ -1,6 +1,5 @@
 Certainly! Here's the `README.md` file with instructions for the project in English:
 
-````markdown
 # Dev Shop
 
 This is a React-based e-commerce project called "Dev Shop." The store allows users to view products, add them to the shopping cart, and complete the purchase.
@@ -76,7 +75,6 @@ Follow the steps below to run the application on your machine:
 ```bash
 git clone https://github.com/your-username/carrinho-e-commerce-react
 ```
-````
 
 2. Navigate to the project directory:
 
