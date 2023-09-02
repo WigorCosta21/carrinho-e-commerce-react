@@ -27,11 +27,11 @@ The project is organized as follows:
 
 ###### Desktop
 
-<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/home-shopping-cart.jpg?raw=true" alt="home shopping cart"/>
+<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/home-shopping-cart.jpg?raw=true" alt="home shopping cart">
 
 ###### Mobile
 
-<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/shopping-cart.jpg?raw=true" alt=" home shopping cart mobile"/>
+<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/shopping-cart.jpg?raw=true" alt=" home shopping cart mobile">
 
 ### Product Detail Page (`Product`)
 
@@ -40,11 +40,11 @@ The project is organized as follows:
 
 ###### Desktop
 
-<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/product-shopping-cart.jpg?raw=true" alt="Product details"/>
+<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/product-shopping-cart.jpg?raw=true" alt="Product details">
 
 ###### Mobile
 
-<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/product-shopping-cart-mobile.jpg?raw=true" alt=" Product details mobile"/>
+<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/product-shopping-cart-mobile.jpg?raw=true" alt=" Product details mobile">
 
 ### Shopping Cart Page (`Cart`)
 
@@ -55,12 +55,12 @@ The project is organized as follows:
 
 ###### Desktop
 
-<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/empty-shopping-cart.jpg?raw=true" alt="Empty shopping cart"/>
-<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/shopping-cart.jpg?raw=true" alt="Shopping cart"/>
+<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/empty-shopping-cart.jpg?raw=true" alt="Empty shopping cart">
+<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/shopping-cart.jpg?raw=true" alt="Shopping cart">
 
 ###### Mobile
 
-<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/shopping-cart-mobile.jpg?raw=true" alt=" Shopping cart mobile"/>
+<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/shopping-cart-mobile.jpg?raw=true" alt=" Shopping cart mobile">
 
 ### Header Component (`Header`)
 
