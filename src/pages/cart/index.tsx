@@ -24,7 +24,7 @@ export const Cart = () => {
       {cart.map((item) => (
         <section
           key={item.id}
-          className="flex items-center justify-between border-b-2 border-gray-300"
+          className="flex gap-2 flex-col lg:flex-row items-center justify-between border-b-2 border-gray-300"
         >
           <img className="w-28" src={item.cover} alt={item.title} />
           <strong>

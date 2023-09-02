@@ -25,10 +25,26 @@ The project is organized as follows:
 - Allows adding products to the shopping cart.
 - Shows a notification when adding a product to the cart.
 
+###### Desktop
+
+<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/home-shopping-cart.jpg?raw=true" alt="home shopping cart"/>
+
+###### Mobile
+
+<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/shopping-cart.jpg?raw=true" alt=" home shopping cart mobile"/>
+
 ### Product Detail Page (`Product`)
 
 - Displays details of a specific product.
 - Allows adding the product to the shopping cart.
+
+###### Desktop
+
+<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/product-shopping-cart.jpg?raw=true" alt="Product details"/>
+
+###### Mobile
+
+<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/product-shopping-cart-mobile.jpg?raw=true" alt=" Product details mobile"/>
 
 ### Shopping Cart Page (`Cart`)
 
@@ -36,6 +52,15 @@ The project is organized as follows:
 - Allows increasing and decreasing the quantity of products in the cart.
 - Displays the total value of the purchase.
 - Allows completing the purchase.
+
+###### Desktop
+
+<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/empty-shopping-cart.jpg?raw=true" alt="Empty shopping cart"/>
+<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/shopping-cart.jpg?raw=true" alt="Shopping cart"/>
+
+###### Mobile
+
+<img src="https://github.com/WigorCosta21/servidor_estaticos/blob/main/shopping-cart-mobile.jpg?raw=true" alt=" Shopping cart mobile"/>
 
 ### Header Component (`Header`)
 
